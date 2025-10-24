@@ -171,10 +171,6 @@ When running `3_text_structure_based_splitter.py`, you'll see:
 - [LangChain Documentation](https://python.langchain.com/docs/modules/data_connection/document_transformers/)
 - [LangChain Text Splitters Guide](https://python.langchain.com/docs/modules/data_connection/document_transformers/text_splitters/recursive_text_splitter)
 
-## License
-
-[Add your license information here]
-
 ## Author
 
-[Add your name/contact information here]
+Srinivas Jagadeesh
